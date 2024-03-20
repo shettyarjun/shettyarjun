@@ -16,7 +16,7 @@
 <br>
 </div>
 <div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <img src="[https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif](https://github.com/shettyarjun/shettyarjun/blob/main/Cyber%20Security.gif)" width="600" height="300"/>
 </div>
 ### :man_technologist: About Me :
 <div>
