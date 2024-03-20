@@ -18,6 +18,7 @@
 <div align="center">
   <img src="https://github.com/shettyarjun/shettyarjun/blob/main/Cyber%20Security.gif" width="600" height="300"/>
 </div>
+<br>
 ### :man_technologist: About Me :
 <div>
 - :telescope: I am a CSE student learning about cyber securtiy and strengthening by fundamentals on MERN.
