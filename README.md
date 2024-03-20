@@ -26,8 +26,9 @@
 
 - :zap: In my free time,i try to learn some DSA and the japanese language.
 
-- :mailbox:How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</div>
+- :mailbox:How to reach me:<a href="https://www.linkedin.com/in/arjun-shetty-255049229/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
 <br>
 
 ### :hammer_and_wrench: Languages and Tools :
@@ -46,8 +47,9 @@
 
 ### :fire: My Stats :
 <div allign="center">
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettyarjun)](https://github.com/anuraghazra/github-readme-stats)
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shettyarjun&theme=dark&background=000000)](https://git.io/streak-stats)
+</div>
+</div>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettyarjun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 
