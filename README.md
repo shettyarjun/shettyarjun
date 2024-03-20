@@ -19,8 +19,9 @@
   <img src="https://github.com/shettyarjun/shettyarjun/blob/main/Cyber%20Security.gif" width="600" height="300"/>
 </div>
 <br>
+
 ### :man_technologist: About Me :
-<div>
+
 - :telescope: I am a CSE student learning about cyber securtiy and strengthening by fundamentals on MERN.
 
 - :seedling: Learning new skills and wroking on some projects.
@@ -48,8 +49,8 @@
 
 ### :fire: My Stats :
 <div allign="center">
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=shettyarjun&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shettyarjun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
 </div>
