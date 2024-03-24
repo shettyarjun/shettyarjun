@@ -2,7 +2,7 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=shettyarjun&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=shettyarjun&style=flat-square&color=red" alt=""/>
   </div>
 <h1>
   Welcome!!
@@ -35,5 +35,3 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=shettyarjun&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-[![](https://visitcount.itsvg.in/api?id=shettyarjun&icon=3&color=5)](https://visitcount.itsvg.in)
