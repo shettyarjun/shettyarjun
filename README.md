@@ -45,6 +45,5 @@
 <h2 style="font-family: Arial, sans-serif;">📊 Leetcode:</h2>
 <p align="center" style="font-family: Arial, sans-serif;">
   
-[![Leetcode Stats](https://leetcard.jacoblin.cool/arjunshetty?font=Dancing_Script)](https://leetcode.com/user4987UM/)
-
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/user4987UM=KnlnKS&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
 </p>
