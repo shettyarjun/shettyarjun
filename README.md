@@ -44,7 +44,7 @@
 
 <h2 style="font-family: Arial, sans-serif;">📊 Leetcode:</h2>
 <p align="center" style="font-family: Arial, sans-serif;">
-  
-  [![(https://leetcard.jacoblin.cool/user4987UM?font=Dancing_Script)](https://leetcode.com/user4987UM/)
+
+  [![Leetcode Stats](https://leetcard.jacoblin.cool/user4987UM?font=Dancing_Script)](https://leetcode.com/user4987UM/)
   
 </p>
