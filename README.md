@@ -42,3 +42,4 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shettyarjun&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
+[![](https://leetcard.jacoblin.cool/jacoblincool?theme=dark,unicorn)](https://leetcode.com/user4987UM/)]
