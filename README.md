@@ -42,4 +42,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=shettyarjun&theme=darkhub&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </p>
 
-[![](https://leetcard.jacoblin.cool/user4987UM?theme=dark)](https://leetcode.com/user4987UM/)]
+<h2 style="font-family: Arial, sans-serif;">📊 Leetcode:</h2>
+<p align="center" style="font-family: Arial, sans-serif;">
+<img src="[![Leetcode Stats](https://leetcard.jacoblin.cool/arjunshetty?font=Dancing_Script)](https://leetcode.com/user4987UM/)" alt="leetcode"/>
+</p>
