@@ -23,7 +23,10 @@
 <p style="font-family: Arial, sans-serif;">🔭 I am a CSE student learning about cyber security and strengthening my fundamentals.<br>🌱 Learning new skills and working on some projects.<br>⚡ In my free time, I try to learn DSA and the Japanese language.</p>
 
 <h2 style="font-family: Arial, sans-serif;">🌐 Socials:</h2>
-<p style="font-family: Arial, sans-serif;"><a href="https://www.linkedin.com/in/arjun-shetty-255049229/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<p style="font-family: Arial, sans-serif;">
+  <a href="https://www.linkedin.com/in/arjun-shetty-255049229/">
+  <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
   <a href="https://leetcode.com/user4987UM/">
   <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
