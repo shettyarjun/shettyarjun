@@ -1,4 +1,4 @@
-<div style="display: wrap; justify-content: space-between; align-items: center;">
+<div style="display: flex; justify-content: space-between; align-items: center;">
   <div style="flex: 1; text-align: left;">
     <div id="header" align="center">
       <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
