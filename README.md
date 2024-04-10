@@ -11,13 +11,13 @@
       </h1>
     </div>
   </div>
-</div>
+
 <div style="flex: 1; text-align: right;">
    <div align="center">
       <img src="https://github.com/shettyarjun/shettyarjun/blob/main/Cyber%20Security.gif" width="500" height="300"/>
   </div>
 </div>
-
+</div>
 
 <h2 style="font-family: Arial, sans-serif;">💫 About Me:</h2>
 <p style="font-family: Arial, sans-serif;">🔭 I am a CSE student learning about cyber security and strengthening my fundamentals.<br>🌱 Learning new skills and working on some projects.<br>⚡ In my free time, I try to learn DSA and the Japanese language.</p>
