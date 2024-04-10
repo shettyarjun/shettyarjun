@@ -11,7 +11,7 @@
       </h1>
     </div>
   </div>
-
+</div>
 <div style="flex: 1; text-align: right;">
    <div align="center">
       <img src="https://github.com/shettyarjun/shettyarjun/blob/main/Cyber%20Security.gif" width="500" height="300"/>
