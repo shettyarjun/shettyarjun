@@ -5,7 +5,7 @@
       <div align="center">
         <img src="https://komarev.com/ghpvc/?username=shettyarjun&style=flat-square&color=red" alt=""/>
       </div>
-        [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=こ+ん+に+ち+は+!+!)](https://git.io/typing-svg)
+        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=500&size=30&duration=3000&pause=1000&color=BCEEF7&background=5CFF7A00&center=true&random=false&width=440&lines=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF!!" alt="Typing SVG" /></a>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       </h1>
     </div>
