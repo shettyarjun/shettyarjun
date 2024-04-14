@@ -5,7 +5,6 @@
       <div align="center">
         <img src="https://komarev.com/ghpvc/?username=shettyarjun&style=flat-square&color=red" alt=""/>
       </div>
-      <marquee>
         [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=こ+ん+に+ち+は+!+!)](https://git.io/typing-svg)
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
       </h1>
