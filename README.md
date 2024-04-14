@@ -5,12 +5,10 @@
       <div align="center">
         <img src="https://komarev.com/ghpvc/?username=shettyarjun&style=flat-square&color=red" alt=""/>
       </div>
-      <h1>
-        <marquee>
+      <marquee><h1>
         こんにちは!!!
-          </marquee>
         <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-      </h1>
+      </h1></marquee>
     </div>
   </div>
 <div>
