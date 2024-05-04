@@ -28,6 +28,9 @@
   <a href="https://leetcode.com/user4987UM/">
   <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
+   <a href="https:arjunshetty.me">
+  <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=portfolio&logoColor=black"/>
+  </a>
   </p>
 
 <h2 style="font-family: Arial, sans-serif;">💻 Tech Stack:</h2>
