@@ -1,21 +1,3 @@
-<div style="display: flex; justify-content: space-between; align-items: center;">
-
-  <div style="flex: 1; text-align: left;">
-    <div id="header" align="center">
-      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-      <div align="center">
-        <img src="https://komarev.com/ghpvc/?username=shettyarjun&style=flat-square&color=red" alt=""/>
-        <a href="https://shettyarjun-github-io.vercel.app">
-          <img src="https://img.shields.io/badge/Portfolio-white?style=for-the-badge&logo=google-chrome&logoColor=black"/>
-        </a>
-        <a href="https://medium.com/@anonymousshetty2003">
-          <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
-        </a>
-      </div>
-    </div>
-  </div>
-
-</div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=500&size=30&duration=3000&pause=1000&color=BCEEF7&center=true&vCenter=true&width=900&lines=Hallo+Leute.;Herzlich+willkommen+auf+meinem+Profil!" alt="Typing SVG" />
 
@@ -40,6 +22,9 @@
    <a href="https://shettyarjun-github-io.vercel.app">
   <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=portfolio&logoColor=black"/>
   </a>
+     <a href="https://medium.com/@anonymousshetty2003">
+          <img src="https://img.shields.io/badge/Medium-black?style=for-the-badge&logo=medium&logoColor=white"/>
+        </a>
   </p>
 
 <h2 style="font-family: Arial, sans-serif;">💻 Tech Stack:</h2>
