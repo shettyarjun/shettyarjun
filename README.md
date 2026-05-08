@@ -1,4 +1,13 @@
-
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="flex: 1; text-align: left;">
+       <div align="center">
+        <img src="https://komarev.com/ghpvc/?username=shettyarjun&style=flat-square&color=red" alt=""/>
+        </div>
+    <div id="header" align="center">
+      <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+      <div align="center">
+  </div>
+</div>
 <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=500&size=30&duration=3000&pause=1000&color=BCEEF7&center=true&vCenter=true&width=900&lines=Hallo+Leute.;Herzlich+willkommen+auf+meinem+Profil!" alt="Typing SVG" />
 
 </div>
