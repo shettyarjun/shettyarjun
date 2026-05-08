@@ -7,9 +7,11 @@
          <a href="https://shettyarjun-github-io.vercel.app">
   <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=portfolio&logoColor=black"/>
   </a>
-      </div>
-        <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=500&size=30&duration=3000&pause=1000&color=BCEEF7&background=5CFF7A00&center=true&random=false&width=440&lines=Hallo Leute. Herzlich willkommen auf meinem Profil!" alt="Typing SVG" /></a>
-      </div>
+    <div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+Japanese&weight=500&size=30&duration=3000&pause=1000&color=BCEEF7&center=true&vCenter=true&width=900&lines=Hallo+Leute.;Herzlich+willkommen+auf+meinem+Profil!" alt="Typing SVG" />
+
+</div>
     </div>
   </div>
 <div>
