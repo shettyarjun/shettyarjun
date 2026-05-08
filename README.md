@@ -27,11 +27,7 @@
 <p style="font-family: Arial, sans-serif;">
   <a href="https://www.linkedin.com/in/arjun-shetty-255049229/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://leetcode.com/user4987UM/">
-  <img src="https://img.shields.io/badge/LeetCode-yellow?style=for-the-badge&logo=leetcode&logoColor=white"/>
-  </a>
-   <a href="https://arjunshetty.me">
+   <a href="https://shettyarjun-github-io.vercel.app">
   <img src="https://img.shields.io/badge/portfolio-white?style=for-the-badge&logo=portfolio&logoColor=black"/>
   </a>
   </p>
