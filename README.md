@@ -21,7 +21,7 @@
 
 
 <h2 style="font-family: Arial, sans-serif;">💫 About Me:</h2>
-<p style="font-family: Arial, sans-serif;">🔭 I am a CSE student learning about cyber security and strengthening my fundamentals.<br>🌱 Learning new skills and working on some projects.<br>⚡ In my free time, I try to learn DSA and the Japanese language.</p>
+<p style="font-family: Arial, sans-serif;">🔭 I am a Master's student experienced in cyber security and strengthening my fundamentals.<br>🌱 Learning new skills and working on some projects.<br>⚡ In my free time, I learn German and test websites</p>
 
 <h2 style="font-family: Arial, sans-serif;">🌐 Socials:</h2>
 <p style="font-family: Arial, sans-serif;">
